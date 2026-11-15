@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Computer Science Engineering (AI/ML) Student.
+- 🎓  Computer Science Engineering (AI/ML) Student.
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI.
 - 💻 Programming with C, C++, Python and Java.
 - 🌐 Exploring Full Stack Web Development.
