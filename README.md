@@ -109,17 +109,32 @@ alt="Top Languages"/>
 
 ---
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joyjit345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-     width="100%"
-     alt="GitHub Trophies"/>
+<a href="https://github.com/joyjit345">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joyjit345&show_icons=true&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Profile Achievements"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joyjit345?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore_My_Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Repositories"
+  />
+</a>
 
 </div>
 
 ---
+
 
 ## 📈 Contribution Activity
 
