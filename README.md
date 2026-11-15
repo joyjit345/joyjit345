@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ANIMATED PIXEL BANNER -->
-<img src="assets/joyjit345-pixel-banner-2.gif"
+<img src="assets/joyjit345-pixel-banner-2..gif"
      width="100%"
      alt="Animated Pixel Art Banner"/>
 
