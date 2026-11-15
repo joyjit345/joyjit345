@@ -136,22 +136,6 @@ alt="Top Languages"/>
 ---
 
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=joyjit345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&theme=tokyo-night"
-  width="100%"
-  alt="Contribution Activity Graph"
-/>
-
-</div>
-
----
-
-
 ## 🐍 My Contributions
 
 <div align="center">
