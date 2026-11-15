@@ -91,13 +91,19 @@ I'm passionate about programming, software development, problem-solving and expl
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joyjit345&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics"/>
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=joyjit345&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+alt="GitHub Statistics"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=joyjit345&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%"
+src="https://streak-stats.demolab.com?user=joyjit345&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyjit345&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+<img width="55%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=joyjit345&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+alt="Top Languages"/>
 
 </div>
 
