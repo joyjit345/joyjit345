@@ -172,7 +172,10 @@ I'm continuously working on programming projects, software development and AI/ML
 <a href="https://github.com/joyjit345">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+          
+<a href=" https://www.instagram.com/_its_joyjit_/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <!-- Add your LinkedIn badge here when you have your profile URL -->
 
 </div>
