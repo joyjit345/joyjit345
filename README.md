@@ -3,7 +3,7 @@
 
 <img src="joyjit345-pixel-banner-2" width="100%" />
 
-# Hi, I'm Your Name 👋
+# Hi, Joyjit Das 👋
 
 ### CSE Student | AI/ML Enthusiast | Software Developer
 
