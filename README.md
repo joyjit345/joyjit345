@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/pixel-banner.gif" width="100%" alt="Pixel Art Coding Room" />
+<img src="assets/joyjit345-pixel-banner-2..gif" width="100%" alt="Pixel Art Coding Room" />
 
 <br/>
 
